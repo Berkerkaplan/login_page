@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252113340792",
+    "project_id": "authandlogin",
+    "storage_bucket": "authandlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252113340792:android:193c33cbb0ae205a18608d",
+        "android_client_info": {
+          "package_name": "com.berk.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252113340792-emtb57h82j15jdso2ge433sr1t8hqt2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhYN9rzTt4YXwM1eqipIHjyp0OaI72Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252113340792-emtb57h82j15jdso2ge433sr1t8hqt2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
